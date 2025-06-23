@@ -8,5 +8,5 @@
 🗣️ Responds with text-to-speech for a natural conversational experience
 🧩 Modular design separating song data and core logic for easy maintenance and extension
 💻 Built with Python libraries: SpeechRecognition, pyttsx3, and pywhatkit
-🚀 Beginner-friendly project demonstrating real-world voice interaction and web automation
+🚀 Beginner-friendly project demonstrating real-world voice interaction and web automation..
 
